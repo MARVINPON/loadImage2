@@ -15,3 +15,5 @@ void setup()  {
 void draw() {
   image(RaceTrack,0,0);
   image(Bugatti,mouseX,mouseY,250,200);
+}
+
